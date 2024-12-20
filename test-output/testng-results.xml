@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T15:58:41 IST" name="Suite" finished-at="2024-12-20T15:59:40 IST" duration-ms="59381">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T15:58:41 IST" name="Test" finished-at="2024-12-20T15:59:40 IST" duration-ms="59381">
+      <class name="verifyHeaderSection.HeaderSection">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:verifyHeaderSection.HeaderSection@4145bad8]" started-at="2024-12-20T15:58:41 IST" name="initializeBrowser" finished-at="2024-12-20T15:58:47 IST" duration-ms="5900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="Verify_Header_Section_button()[pri:0, instance:verifyHeaderSection.HeaderSection@4145bad8]" started-at="2024-12-20T15:58:47 IST" name="Verify_Header_Section_button" finished-at="2024-12-20T15:59:40 IST" duration-ms="52886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Header_Section_button -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:verifyHeaderSection.HeaderSection@4145bad8]" started-at="2024-12-20T15:59:40 IST" name="tearDown" finished-at="2024-12-20T15:59:40 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- verifyHeaderSection.HeaderSection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
